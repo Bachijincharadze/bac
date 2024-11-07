@@ -1,0 +1,421 @@
+div{
+    margin: 10px;
+    height: 80px;
+}
+
+body{
+    background-color: rgb(197, 189, 189);
+    background-image: url(img/pexels-scottwebb-2530586.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#headerrr{
+    border-radius: 1%;
+    height: 90px;
+    background-color: rgb(36, 37, 34);
+    opacity: 0.95;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+    margin-left: -30px;
+}
+
+.navbar li{
+    list-style-type: none; 
+    float: left;
+    font-size: 20px;
+    margin-left: 15px;
+
+}
+
+a{
+    text-decoration: none;
+    color: rgb(156, 156, 131);
+    display: flex;
+    transition: all 0.5s ease;
+    letter-spacing: 1px;
+    animation: animation 2.0s ease;
+}
+
+@keyframes animation {
+    0%{
+        letter-spacing: 6px;
+    }
+
+    100%{
+        letter-spacing: 1px;
+    }
+}
+
+a:hover{
+    transform: scale(1.0); 
+    color: white;
+    height: 30px;
+}
+
+
+
+#mainnn{
+    border-radius: 5%;
+    margin-left: 990px;
+    margin-top: 20px;
+    opacity: 0.95;
+    width: 500px;
+    height: 480px;
+    background-color: rgb(71, 72, 62);
+    background-position: center;
+}
+
+.coffe{
+    margin-top: -15px;
+    margin-left: 150px;
+}
+
+.h1-1{
+    color: white;
+    font-size: 50px;
+    margin-left: 30px;
+}
+
+p{
+    color: white;
+    font-size: 15px;
+    margin-left: 30px;
+}
+
+#footerrr{
+    border-radius: 1%;
+    margin-top: 20px;
+    height: 90px;
+    opacity: 0.95;
+    background-color: rgb(36, 37, 34);
+}
+
+.tel{
+    color: rgb(156, 156, 131);
+    margin-left: 10px;
+}
+
+.mail{
+    color: rgb(156, 156, 131);
+    margin-left: 10px;
+}
+
+
+
+
+
+
+
+#Main{
+    border-radius: 10%;
+    background-color: rgb(108, 110, 95);
+    margin-left: 530px;
+    margin-top: 150px;
+    width:500px;
+    margin-right: 150px;
+    height: 250px;  
+}
+
+#fname{
+    margin-top: -15px;
+    margin-left: 95px;
+    width: 300px;
+    border-radius: 5%;
+}
+
+#mail{
+    margin-left: 95px;
+    width: 300px;
+    border-radius: 5%;
+}
+
+#message{
+    margin-left: 95px;
+    height: 25px;
+    width: 300px;
+    border-radius: 5%;
+}
+
+
+h1{
+    margin-left: 165px;
+    color: rgb(48, 47, 38);
+}
+
+button{
+  background-color: rgb(46, 48, 39);
+  color: rgb(239, 239, 239);
+  margin-left: 170px;
+  width: 150px;
+  height: 30px;
+  border-radius: 12%;
+  transition: all 0.3s ease;
+}
+
+button:hover{
+    transform: scale(1.0);
+    background-color: rgb(100, 99, 93);
+}
+
+
+
+
+
+
+body {
+    background-image: url(img/pexels-scottwebb-2530586.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#headert{
+    background-color: rgb(36, 30, 27);
+    height: 80px;
+    margin-top: 0px;
+    width: 1535px;
+    margin-left: -19.5px;
+}
+
+.serviceh2{
+    margin-left: -800px;
+    color: #ffffff;
+    font-size: 32px;
+    padding-top: -30px;
+    margin-left: 715px;
+}
+
+
+.services {
+    height: 500px;
+    border: none;
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.service-item {
+    width: 45%; 
+    background-color: #a7a296;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: left; 
+}
+
+.service-item h3 {
+    margin-top: -20px;
+    font-size: 24px;
+    color: #333;
+}
+
+.service-item p {
+    margin-top: -20px;
+    font-size: 16px;
+    color: #3d3636;
+    line-height: 1.5;
+}
+
+#footeeer{
+    background-color: rgb(36, 30, 27);
+    margin-top: 530px;
+    height: 80px;
+    width: 1541.5px;
+    margin-left: -15.2px;
+}
+
+
+
+
+
+
+
+
+body{
+    background-image: url(img/pexels-scottwebb-2530586.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.div{
+    margin: 10px;
+    height: 80px;
+}
+
+#header123{
+    margin-top: -10px;
+    background-color: rgb(34, 31, 20);
+    height: 80px;
+    border-radius: 1%;
+    opacity: 1;
+}
+
+h6{
+    font-size: 35px;
+    color: white;
+    margin-left: 710px;
+    margin-top: 10px;
+    padding-top: 15px;
+}
+
+#main123{
+    margin-top: 15px;
+    background-color: rgb(51, 47, 33);
+    height: 600px;
+}
+
+.coffe{
+    color: white;
+}
+
+.img-123{
+    margin-top: 15px;
+    margin-left: 50px;
+    border-radius: 5%;
+}
+
+.img-234{
+    margin-top: 15px;
+    margin-left: 150px;
+    border-radius: 5%;
+}
+
+.img-345{
+    margin-top: 15px;
+    margin-left: 150px;
+    border-radius: 5%;
+}
+
+.menuall{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    float: left;
+    margin-top: 50px;
+    
+}
+
+
+.desserts{
+    color: white;
+    margin-left: 460px;
+}
+
+.tea{
+    color: white;
+    margin-left: 460px;
+}
+
+
+.img-cup{
+    margin-left: 30px;
+    margin-top: -5px;
+}
+
+.img-dessert{
+    margin-left: 350px;
+    margin-top: 110px;
+}  
+
+.tea-img{
+    margin-left: 1100px;
+    margin-top:  150px;
+    padding-top: 225px;
+    
+}
+
+hr{
+    color: rgb(153, 151, 132);
+    margin-top:-175px;
+    width: 1450px;
+    background-color: rgb(224, 224, 224);
+}
+
+h5{
+    margin-left: 200px;
+    margin-top: -5px;
+    color: white;
+}
+
+.coffe-1{
+    margin-top: -130px;
+    margin-left: 5px;
+}
+
+.coffe-img{
+    margin-left: 5px;
+    margin-top: 0px;
+}
+
+.am{
+    margin-top: 75px;
+}
+
+.dessert-1{
+   margin-left: 530px;
+   margin-top: 55.5px;
+}
+
+.dessert-img{
+    margin-left: 200px;
+    margin-top: -220px;
+}
+
+.tea-1{
+    margin-left: 1060px;
+    margin-top: -235px;
+}
+
+.tea-img{
+    margin-top: -340px;
+    margin-left: 1060px;
+}
+
+.mat{
+    margin-top: 180px;
+}
+
+
+
+
+
+body{
+    background-color: rgb(197, 189, 189);
+    background-image: url(img/pexels-scottwebb-2530586.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#header321{
+    background-color: rgb(36, 30, 27);
+    height: 80px;
+    opacity: 0.95;
+}
+
+#Main321{
+    height: 300px;
+    text-align: center;
+    margin-top: 150px;
+    background-color: #474538;
+    opacity: 0.95;
+    border-radius: 3%;
+}
+
+.ppp{
+    font-size: 40px;
+}
+
+.h1-1-1{
+    color: white;
+    margin-left: 700px;
+    padding-top: 15px;
+}
